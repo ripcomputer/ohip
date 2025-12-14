@@ -1,0 +1,1 @@
+input.magnetic_force(Dimension.X)

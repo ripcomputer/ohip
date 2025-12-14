@@ -1,1 +1,1 @@
-
+input.onButtonPressed(Button.A , ()=>{basic.showNumber(67)})
